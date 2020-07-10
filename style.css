@@ -7,20 +7,44 @@ font-weight: 500;
 
 h1{
     text-align: center;
+    padding-top: 10px;
     
     
 }
 
+
 nav{
-    text-align: Center;
+    display: block;
     word-spacing:5px;
-    margin:40px 20px;
+    margin:auto;
     border-color:black;
     border-width:4px;
     border-style:dashed;
     border-radius:1px;
     padding:10px 10px;
+    width:fit-content;
+    
    
    
 }
 
+#Famous{
+    word-spacing:0px;
+}
+
+
+#Positions ul{
+    list-style:url(icons8-baseball-ball-15.png)
+}
+
+#Benefits ul{
+    list-style:url(icons8-baseball-ball-15.png)
+}
+
+#Famous ul{
+    list-style:url(icons8-baseball-ball-15.png)
+}
+
+#Facts ul{
+    list-style:url(icons8-baseball-ball-15.png)
+}
